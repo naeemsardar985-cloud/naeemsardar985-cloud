@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Saroo 👋
 
-<!--
-**naeemsardar985-cloud/naeemsardar985-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python & Web Development Student 🚀
 
-Here are some ideas to get you started:
+I'm a passionate student learning Python and Web Development by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🎓 Student Management System
+A Python-based management system with CRUD operations, JSON data storage, input validation, and a menu-driven interface.
+
+### 📦 Inventory Management System
+A Python-based system for managing products, including adding, viewing, searching, updating, and deleting product records.
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- JavaScript
+- Web Development
+- Git & GitHub
+
+## 🎯 My Goal
+
+To become a skilled developer by continuously learning, building real-world projects, and improving my problem-solving skills.
+
+---
+
+⭐ Thanks for visiting my profile!
